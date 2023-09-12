@@ -38,4 +38,4 @@ console.log(a); // ReferenceError: Cannot access 'a' aefore initialization
 const a = 1;
 ```
 
--  const 으로 선언된 uage 변수가 호이스팅은 되었지만, 초기화가 되지 않아 에러 발생
+-  변수가 호이스팅은 되었지만, 초기화가 되지 않아 에러 발생
