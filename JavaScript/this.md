@@ -10,6 +10,8 @@
 -  생성자 함수 내부의 this는 생성된 객체 참조
 -  DOM event handler로 사용되는 함수 내부의 this는 이벤트가 발생한 element로 설정
 
+대부분의 경우 this의 값은 함수를 호출한 방법에 의해 결정
+
 ### 1. 전역에서의 this
 
 ```js
