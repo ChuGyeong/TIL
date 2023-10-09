@@ -10,10 +10,10 @@
 ### JavaScript
 
 -  [TDZ](./JavaScript/TDZ.md)
--  [this](./JavaScript/this.md)
+-  [this](./JavaScript/this.md)-
+-  [바인딩](./JavaScript/binding.md)
 -  [브라우저 렌더링 순서](./JavaScript/browser-rendering-order.md)
 -  [호이스팅](./JavaScript/hoisting.md)
--  [바인딩](./JavaScript/binding.md)
 
 ### SQLD
 
